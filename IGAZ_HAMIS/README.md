@@ -23,9 +23,11 @@ IGAZHAMIS #2;Kék az ég.;x;
 
 Nyissuk meg az https://www.online-python.com/ oldalt.
 Ezt a kódot másoljuk be ide, és az "Open file from Disk" gomb segítsével nyissuk meg a 2. lépésben létrehozott CSV fájlt.
+
 ![Open file from disk](readme_src/openfile.png)
 
 Valahogy így kéne kinéznie az oldalnak:
+
 ![Opened file](readme_src/code.png)
 
 Kattintsunk a Run gombra. Ha kész, másoljuk ki az alul kiírt, kész szöveget egy üres txt formátumú fájlba (notepad) és mentsük el:
