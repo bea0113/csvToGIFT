@@ -17,7 +17,9 @@ def true_false_generator(_file):
     sample_text = """::{0}::{1}{{{2}}}"""
     for each in lines:
         result = sample_text.format(*each)
-        print(result)
+        print(result,end="\n\n")
 
-with open("truefalse.csv",encoding="UTF-8") as file:
+# ÍRD ÁT A FILE NEVET!!
+file_name="IGAZ_HAMIS/truefalse.csv"
+with open(file_name,encoding="UTF-8") as file:
     true_false_generator(file)
