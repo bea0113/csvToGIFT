@@ -1,2 +1,3 @@
 ::IGAZHAMIS #1::Szeretem a paradicsomot. {FALSE}
+
 ::IGAZHAMIS #2::Kék az ég.{TRUE}
