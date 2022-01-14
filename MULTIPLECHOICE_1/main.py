@@ -23,6 +23,6 @@ def multiple_choice_1_generator(_file):
         print(result,end="\n\n")
 
 # ÍRD ÁT A FILE NEVET!!
-file_name="MULTIPLECHOICE_1/multiple_choice_1.csv"
+file_name="MULTIPLECHOICE_1/input.csv"
 with open(file_name,encoding="UTF-8") as file:
     multiple_choice_1_generator(file)
